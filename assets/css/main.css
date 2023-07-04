@@ -200,7 +200,7 @@ a {
   outline: 0; }
 
 a:hover, a:focus {
-  color: #318131; }
+  color: #226B68; }
 
 ::selection {
   background: #FFF498; }
@@ -222,7 +222,7 @@ body {
   font-size: 14px;
   line-height: 1.6;
   font-family: "Open Sans" sans-serif;
-  color: #2E2D33;
+  color: #131214;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%; }
 
